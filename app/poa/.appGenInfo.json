@@ -1,0 +1,32 @@
+{
+  "generationParameters": {
+    "generationDate": "Tue Nov 24 2026 04:07:36 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "Local CAP",
+    "metadataFilename": "",
+    "serviceUrl": "http://localhost:4004/odata/v4/catalog/",
+    "appName": "poa",
+    "appTitle": "Purchase Order Application",
+    "appDescription": "Purchase Order Application",
+    "appNamespace": "poa",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.154.0",
+    "enableEslint": true,
+    "enableTypeScript": false,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.34.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "POSrv"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "Items"
+      }
+    ],
+    "launchText": "To launch the generated app, start your CAP project:  and navigate to the following location in your browser:\n\nhttp://localhost:4004/poa/webapp/index.html"
+  }
+}
